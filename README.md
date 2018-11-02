@@ -4,4 +4,4 @@ Today is halloween, you want to get candies. You see a creepy house and you walk
 
 **Choices:**   
 [Turn around to leave](scenes/s1-dsc)  
-[Keep going in](scenes/s1-yhs)
+[Keep going in](scenes/s1-yhs) 

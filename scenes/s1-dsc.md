@@ -1,4 +1,5 @@
 Then suddenly the door shuts close 
-**Choises:**
+
+**Choices:**
 [you call for help](/)
 [Keep going in](/)
