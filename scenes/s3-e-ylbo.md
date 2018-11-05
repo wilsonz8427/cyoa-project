@@ -1,4 +1,4 @@
-You lose and black out, you end up in a hospital.
+You lose and black out. When your back to your senses you notice that you are in hospital.
 
-Only choice:
-[Restart](../README.md)
+[Go Back To The Beginning](../README.md)
+
