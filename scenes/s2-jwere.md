@@ -1,5 +1,5 @@
 John the werewolf appears.
 
 **Choices:**  
-[you fight him](s4-ylos.md)  
-[you run to a silver room](s4-ware.md)
+[you fight him](s3-e-ylbo.md)  
+[you run to a silver room](s3-wereweak.md)
