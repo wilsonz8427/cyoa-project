@@ -2,4 +2,4 @@ Werewolves are weak to silver so he can’t get in, there is a underground well 
 
 choices:
 [you drop down to swim](s4-e-yfflash.md)
-[you stay put]()
+[you stay put](s3-werereturn.md)
