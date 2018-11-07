@@ -1,4 +1,3 @@
-He surrenders and explains this was a game and that you won
+He surrenders and explains that he dressed up to trick people.
 
-choices:
-[he gives you candies](s4-e-ygcandies.md)
+[He leads you to an exit and...](s4-e-ygcandies.md)
