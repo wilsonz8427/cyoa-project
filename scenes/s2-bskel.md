@@ -1,4 +1,4 @@
-Bob the skeleton appears and he chases you with a stick.
+Bob the Skeleton appears and he chases after you with a stick.
 
 **Choices:**
 [You pick up a stone and throw it at him](s3-rock.md)  

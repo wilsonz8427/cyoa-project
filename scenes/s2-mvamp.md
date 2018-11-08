@@ -1,4 +1,4 @@
-Michael the Vampire appears and wants to suck your blood.
+Michael the Vampire appears and he wants to try to suck your blood.
 
 **Choices:**
 [You run away](s3-ytfall.md)  

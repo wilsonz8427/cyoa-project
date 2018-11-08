@@ -1,3 +1,5 @@
-The rock hits the stick and hits the skeleton, I guess stick and stone do break your bones. You keep on going forward and you see candy and a key to the exit.
+The rock hits the stick and hits the skeleton, I guess stick and stone do break your bones. 
+You survive the skeleton attack. You win!
+You keep on going forward and you see candies and a key to the exit of the house.
 
-[You win!! Play Again?](../README.md)
+[Play Again?](../README.md)

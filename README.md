@@ -1,4 +1,4 @@
-Once upon a time, on a halloween day a teen went trick or treating. He see a creepy house and you walk inside the house to get candies.
+On a halloween day, a you went trick or treating. You see a creepy house and you walk inside the house to get candies.
 
 <!-- (haunted-house-pic) -->
 

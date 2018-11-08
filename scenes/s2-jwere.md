@@ -1,5 +1,5 @@
-John the werewolf appears, ready to eat you.
+John the Werewolf appears and want to eat you.
 
 **Choices:**  
-[you fight him](s3-e-ylbo.md)  
-[you run to a silver room](s3-wereweak.md)
+[You fight him](s3-e-ylbo.md)  
+[You run to a silver room](s3-wereweak.md)

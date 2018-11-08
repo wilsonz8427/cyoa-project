@@ -1,7 +1,6 @@
-You hear a strange noise
-and you can walk two ways.
-A dark hallway or go up a dark stairs
+You hear a strange noise but you don't know where it is coming from.
+You see that you can walk two ways: a dark hallway or go up a dark stairs.
 
 **Choices:**  
 [Go into the dark hallway](s2-bskel.md)  
-[go up the dark stairs](s2-mvamp.md)
+[Go up the dark stairs](s2-mvamp.md)
